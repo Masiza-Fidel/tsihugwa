@@ -2,7 +2,7 @@
   /*
   Colors
   --------------------------------*/
-  --color-primary: #156ef4;
+  --color-primary: blue;
   --color-dark: black;
   --color-gray: #f6f7ff;
   --color-title: black;
@@ -172,7 +172,7 @@ body {
 }
 
 .btn--primary {
-  background-color: rgb(7, 7, 152);
+  background-color: rgb(3, 3, 48);
   border: 0.1rem solid transparent;
   color: var(--color-white);
 }
@@ -220,7 +220,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  background-color:rgb(5, 5, 93);
+  background-color:rgb(3, 3, 57);
   height: var(--height-header);
   display: flex;
   align-items: center;
@@ -312,12 +312,12 @@ body {
 }
 
 .header--scroll {
-  background-color: rgb(7, 7, 139);
+  background-color: rgb(3, 3, 57);
   box-shadow: whitesmoke;
 }
 
 .header--scroll .nav__menu {
-  background-color:  rgb(7, 7, 139);
+  background-color:  rgb(3, 3, 57);
   
 }
 .header--scroll .nav__brand,
@@ -337,7 +337,7 @@ body {
 /* Home
 -------------------------------------------------------------*/
 .home {
-  background-color: rgb(13, 13, 151);
+  background-color: rgb(4, 4, 34);
 }
 
 .home__wrapper {
